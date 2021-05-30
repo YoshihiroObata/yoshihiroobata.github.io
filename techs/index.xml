@@ -7,5 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Yoshihiro Obata</copyright><atom:link href="https://yoshihiroobata.github.io/techs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dragonfly</title>
+      <link>https://yoshihiroobata.github.io/techs/dragonfly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoshihiroobata.github.io/techs/dragonfly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>imageJ</title>
+      <link>https://yoshihiroobata.github.io/techs/imagej/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoshihiroobata.github.io/techs/imagej/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://yoshihiroobata.github.io/techs/python/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://yoshihiroobata.github.io/techs/python/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

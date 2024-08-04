@@ -1,0 +1,200 @@
+# showcase
+showcase:
+  enable: true
+  title: "Hi, I’m Yoshihiro (Yoshi)"
+  subtitle: "Machine Learning Engineer"
+  description: "Nice to meet you! I am a graduate student using deep learning to denoise and segment images of bone in the <a target='_blank' href='https://acevedo.ucsd.edu/'>Fracture and Fatigue of Skeletal Tissues Lab</a> at UC San Diego. I'm graduating with my PhD in December and am looking for opportunities to continue my passion for machine learning and engineering."
+  image:
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    email: '<a href="mailto:yoshihiro.obata2@gmail.com">yoshihiro.obata2@gmail.com</a>' ## need to fix
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/yoshihiro-obata"
+
+    - icon: "github"
+      URL: "https://github.com/YoshihiroObata"
+
+    - icon: "instagram"
+      URL: "https://www.instagram.com/yoshi_obata/"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: '<p class="lead">
+    I enjoy coding deep learning and machine learning solutions to grand problems. 
+    So far, I have focused on denoising and segmenting micro-CT images to reduce the radiation dose required for each scan. 
+    I love collaborating at the crossroads of several fields!
+    </p>
+    <p class="lead">
+    Spending time with family and friends is super important for me. As far as hobbies, I currently love running and playing the game Slay the Spire, 
+    though I also actively play tennis, climb, and ski! Going into the outdoors for hiking is the ideal way for me to spend the weekend. 
+    </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/company/radity/" ## gotta change this
+  image:
+    x: "img/who-am-i/user-picture.png"
+    _2x: "img/who-am-i/user-picture@2x.png"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of California San Diego"
+      year: "2023-2024"
+      degree: "Doctor of Philosophy (PhD), Mechanical and Aerospace Engineering"
+    - university: "University of Utah"
+      year: "2020-2022"
+      degree: "Graduate Certificate in Deep Learning in AI and Robotics"
+    - university: "Univeristy of Utah"
+      year: "2019-2022"
+      degree: "Master of Science (MS), Mechanical Engineering"
+    - university: "North Carolina State University"
+      year: "2015-2019"
+      degree: "Bachelor of Science (BS), Mechanical Engineering"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "Over 6+ years of research experience at multiple universities and NASA, and currently seeking opportunies to contribute to a company. I implement and develop machine learning solutions to improve lives through computer science and mechanical engineering."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/yoshihiro-obata/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+
+  items:
+    - title: "Research Assistant, UC San Diego"
+      company: "Fracture and Fatigue of Skeletal Tissues Lab"
+      duration: "Sep 2023 - Dec 2024"
+
+    - title: "Research Assistant, University of Utah"
+      company: "Fracture and Fatigue of Skeletal Tissues Lab"
+      duration: "Jun 2019 - Sep 2023"
+
+    - title: "Damage Tolerance Research Intern"
+      company: "NASA Langley Research Center"
+      duration: "May 2018 - Aug 2018"
+
+# Client & Work
+client_and_work:
+  title: "Selected Projects"
+  enable: true
+
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Deep learning for radiation dose reduction"
+      description: "Radiation dose for CT imaging of bone samples was reduced by 80% using a deep learning approach. This enabled an in situ test that revealed the collagen's important in bone's fracture resistance at the microscale."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/radity-finance.jpg"
+        _2x: "img/works/radity-finance@2x.jpg"
+      is_even: true
+
+    - title: "Self-supervised denoising of scientific images"
+      description: "Self-supervised learning was used to denoise CT images of bone with no high-quality target images required. This method halved radiation dose imparted by a CT scan."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/swissfintech.jpg"
+        _2x: "img/works/swissfintech@2x.jpg"
+      is_even: false
+
+    - title: "Data analysis of bone microstructure"
+      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/robo-advisor.jpg"
+        _2x: "img/works/robo-advisor@2x.jpg"
+      is_even: true
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "img/testimonials/daniel-jordan.jpg"
+        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "img/testimonials/jonathan-peters.jpg"
+        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+
+# contact
+contact:
+  enable: false
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+1 (252) 622-5924"
+  email:
+    title: "Email"
+    email: '<a href="mailto:yoshihiro.obata2@gmail.com">yoshihiro.obata2@gmail.com</a>'
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"

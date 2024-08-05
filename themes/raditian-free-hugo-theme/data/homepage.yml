@@ -43,8 +43,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/yoshihiro-obata/" ## gotta change this
   image:
-    x: "img/who-am-i/headshot_edit_circles_lq.png"
-    _2x: "img/who-am-i/headshot_edit_circles.png"
+    x: "img/who-am-i/headshot_rects_lq.png"
+    _2x: "img/who-am-i/headshot_rects.png"
 
 # education
 education:

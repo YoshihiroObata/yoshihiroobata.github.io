@@ -41,10 +41,10 @@ about:
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
-    URL: "https://www.linkedin.com/company/radity/" ## gotta change this
+    URL: "https://www.linkedin.com/in/yoshihiro-obata/" ## gotta change this
   image:
-    x: "img/who-am-i/user-picture.png"
-    _2x: "img/who-am-i/user-picture@2x.png"
+    x: "img/who-am-i/headshot_edit_circles_lq.png"
+    _2x: "img/who-am-i/headshot_edit_circles.png"
 
 # education
 education:

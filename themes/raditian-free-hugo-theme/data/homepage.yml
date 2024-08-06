@@ -62,7 +62,7 @@ education:
       degree: "Master of Science (MS), Mechanical Engineering"
     - university: "North Carolina State University"
       year: "2015-2019"
-      degree: "Bachelor of Science (BS), Mechanical Engineering"
+      degree: "Bachelor of Science (BS), Aerospace Engineering"
 
 # experience
 experience:
@@ -96,36 +96,36 @@ client_and_work:
   title: "Selected Projects"
   enable: true
 
-  clients:
-    - logo:
-        x: "img/clients/asgardia.png"
-        _2x: "img/clients/asgardia@2x.png"
-      alt: "Asgardia"
+  # clients:
+  #   - logo:
+  #       x: "img/clients/asgardia.png"
+  #       _2x: "img/clients/asgardia@2x.png"
+  #     alt: "Asgardia"
 
-    - logo:
-        x: "img/clients/earth-2.png"
-        _2x: "img/clients/earth-2@2x.png"
-      alt: "Earth 2.0"
+  #   - logo:
+  #       x: "img/clients/earth-2.png"
+  #       _2x: "img/clients/earth-2@2x.png"
+  #     alt: "Earth 2.0"
 
-    - logo:
-        x: "img/clients/goldline.png"
-        _2x: "img/clients/goldline@2x.png"
-      alt: "Goldline"
+  #   - logo:
+  #       x: "img/clients/goldline.png"
+  #       _2x: "img/clients/goldline@2x.png"
+  #     alt: "Goldline"
 
-    - logo:
-        x: "img/clients/kanba.png"
-        _2x: "img/clients/kanba@2x.png"
-      alt: "Kanba"
+  #   - logo:
+  #       x: "img/clients/kanba.png"
+  #       _2x: "img/clients/kanba@2x.png"
+  #     alt: "Kanba"
 
-    - logo:
-        x: "img/clients/zoo-tv.png"
-        _2x: "img/clients/zoo-tv@2x.png"
-      alt: "Zoo"
+  #   - logo:
+  #       x: "img/clients/zoo-tv.png"
+  #       _2x: "img/clients/zoo-tv@2x.png"
+  #     alt: "Zoo"
 
-    - logo:
-        x: "img/clients/ztos.png"
-        _2x: "img/clients/ztos@2x.png"
-      alt: "Ztos"
+  #   - logo:
+  #       x: "img/clients/ztos.png"
+  #       _2x: "img/clients/ztos@2x.png"
+  #     alt: "Ztos"
 
   works:
     - title: "Deep learning for radiation dose reduction"
@@ -146,19 +146,19 @@ client_and_work:
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        x: "img/works/deep_learning_figure2_lq.png"
+        _2x: "img/works/deep_learning_figure2.png"
       is_even: false
 
     - title: "Data analysis of bone microstructure"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+      description: "Data analysis of thousands of voids and the complex vascular networks in bone using Python (Pandas) revealed the complex relationships between disease and microstructure, with new findings published in several journal articles."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        x: "img/works/microstructure_figure_lq.png"
+        _2x: "img/works/microstructure_figure.png"
       is_even: true
 
 # testimonial

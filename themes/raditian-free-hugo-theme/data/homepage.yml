@@ -135,8 +135,8 @@ client_and_work:
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/deep_learning_figure1_lq.png"
+        _2x: "img/works/deep_learning_figure1.png"
       is_even: true
 
     - title: "Self-supervised denoising of scientific images"

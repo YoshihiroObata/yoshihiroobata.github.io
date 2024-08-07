@@ -5,10 +5,12 @@ showcase:
   subtitle: "Machine Learning Engineer"
   description: "Nice to meet you! I am a graduate student using deep learning to denoise and segment images of bone in the <a target='_blank' href='https://acevedo.ucsd.edu/'>Fracture and Fatigue of Skeletal Tissues Lab</a> at UC San Diego. I'm graduating with my PhD in December and am looking for opportunities to continue my passion for machine learning and engineering."
   image:
-    x: "img/showcase/showcase.png"
-    _2x: "img/showcase/showcase@2x.png"
+    x: "img/showcase/header_lq.png"
+    _2x: "img/showcase/header_lq.png"
   imageMobile:
-    x: "img/showcase/showcase-mobile.jpg"
+    x: "img/showcase/header_lq.png"
+    # img/logo-dark.png
+    # img/logo-dark.png 1x, img/logo-dark@2x.png 2x
 
   button:
     icon: "icon-mail-fill"
@@ -44,7 +46,7 @@ about:
     URL: "https://www.linkedin.com/in/yoshihiro-obata/" ## gotta change this
   image:
     x: "img/who-am-i/headshot_rects_lq.png"
-    _2x: "img/who-am-i/headshot_rects.png"
+    _2x: "img/who-am-i/headshot_rects_lq.png"
 
 # education
 education:
@@ -57,7 +59,7 @@ education:
     - university: "University of Utah"
       year: "2020-2022"
       degree: "Graduate Certificate in Deep Learning in AI and Robotics"
-    - university: "Univeristy of Utah"
+    - university: "University of Utah"
       year: "2019-2022"
       degree: "Master of Science (MS), Mechanical Engineering"
     - university: "North Carolina State University"
@@ -136,18 +138,18 @@ client_and_work:
         URL: "#"
       image:
         x: "img/works/deep_learning_figure1_lq.png"
-        _2x: "img/works/deep_learning_figure1.png"
+        _2x: "img/works/deep_learning_figure1_lq.png"
       is_even: true
 
     - title: "Self-supervised denoising of scientific images"
-      description: "Self-supervised learning was used to denoise CT images of bone with no high-quality target images required. This method halved radiation dose imparted by a CT scan."
+      description: "Self-supervised learning was used to denoise CT images of bone with no high-quality target images required. This method reduced dose imparted by a CT scan by 66%."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
         x: "img/works/deep_learning_figure2_lq.png"
-        _2x: "img/works/deep_learning_figure2.png"
+        _2x: "img/works/deep_learning_figure2_lq.png"
       is_even: false
 
     - title: "Data analysis of bone microstructure"
@@ -158,7 +160,7 @@ client_and_work:
         URL: "#"
       image:
         x: "img/works/microstructure_figure_lq.png"
-        _2x: "img/works/microstructure_figure.png"
+        _2x: "img/works/microstructure_figure_lq.png"
       is_even: true
 
 # testimonial

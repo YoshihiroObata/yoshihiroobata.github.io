@@ -185,7 +185,8 @@ contact:
   enable: true
   title: "Contact"
   form:
-    action: "#"
+    action: "https://formspree.io/f/xzzpgrpa"
+    method: "POST"
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"

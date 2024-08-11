@@ -68,7 +68,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 6+ years of research experience at multiple universities and NASA, and currently seeking opportunies to contribute to an impactful technology company. I implement and develop machine learning solutions for scientific images now, but am open to application of deep learning in all spaces. So far, I've primarily worked on CT scans, which you can read about below in the projects section below. I also have extensive experience performing mechanical tests, such as toughness and fatigue tests at UC San Diego and NASA. I tested the structural integrity of bone, and how it is compromised by disease."
+  description: "Over 6+ years of research experience at multiple universities and NASA, and currently seeking opportunies to contribute to an impactful technology company. I implement and develop machine learning solutions for scientific images now, but am open to application of deep learning in all spaces. So far, I've primarily worked on CT scans, which you can read about in the projects section below. I also have extensive experience performing mechanical tests, such as toughness and fatigue tests at UC San Diego, University of Utah, and NASA. I tested the structural integrity of bone and how it is compromised by disease."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"

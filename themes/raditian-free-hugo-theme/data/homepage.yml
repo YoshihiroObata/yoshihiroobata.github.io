@@ -3,7 +3,7 @@ showcase:
   enable: true
   title: "Hi, I’m Yoshihiro (Yoshi)"
   subtitle: "Machine Learning Engineer"
-  description: "Nice to meet you! I am a graduate student using deep learning to denoise and segment images of bone in the <a target='_blank' href='https://acevedo.ucsd.edu/'>Fracture and Fatigue of Skeletal Tissues Lab</a> at UC San Diego. I'm graduating with my PhD in December and am looking for opportunities to continue my passion for machine learning and engineering."
+  description: "Nice to meet you! I am a graduate student using deep learning to denoise and segment images of bone in the <a target='_blank' href='https://acevedo.ucsd.edu/'>Fracture and Fatigue of Skeletal Tissues Lab</a> at UC San Diego. I'm graduating with my PhD in December 2024 and am looking for opportunities to continue my passion for machine learning and engineering."
   image:
     x: "img/showcase/header_lq.png"
     _2x: "img/showcase/header_lq.png"
@@ -43,8 +43,8 @@ about:
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/yoshihiro-obata/"
   image:
-    x: "img/who-am-i/headshot_rects_lq.png"
-    _2x: "img/who-am-i/headshot_rects_lq.png"
+    x: "img/who-am-i/profile-pic2.png"
+    _2x: "img/who-am-i/profile-pic2.png"
 
 # education
 education:
@@ -68,7 +68,7 @@ education:
 experience:
   enable: true
   title: "Experience"
-  description: "Over 6+ years of research experience at multiple universities and NASA, and currently seeking opportunies to contribute to a company. I implement and develop machine learning solutions to improve lives through computer science and mechanical engineering."
+  description: "Over 6+ years of research experience at multiple universities and NASA, and currently seeking opportunies to contribute to an impactful technology company. I implement and develop machine learning solutions for scientific images now, but am open to application of deep learning in all spaces. So far, I've primarily worked on CT scans, which you can read about in the projects section below. I also have extensive experience performing mechanical tests, such as toughness and fatigue tests at UC San Diego, University of Utah, and NASA. I tested the structural integrity of bone and how it is compromised by disease."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -98,14 +98,14 @@ client_and_work:
 
   # clients:
   #   - logo:
-  #       x: "img/clients/asgardia.png"
-  #       _2x: "img/clients/asgardia@2x.png"
-  #     alt: "Asgardia"
+  #       x: "img/clients/University_of_Utah_horizontal_logo.svg.png"
+  #       _2x: "img/clients/University_of_Utah_horizontal_logo.svg.png.png"
+  #     alt: "University of Utah"
 
   #   - logo:
-  #       x: "img/clients/earth-2.png"
-  #       _2x: "img/clients/earth-2@2x.png"
-  #     alt: "Earth 2.0"
+  #       x: "img/clients/UCSD_logo_PNG_(7).png"
+  #       _2x: "img/clients/UCSD_logo_PNG_(7).png"
+  #     alt: "University of California San Diego"
 
   #   - logo:
   #       x: "img/clients/goldline.png"
